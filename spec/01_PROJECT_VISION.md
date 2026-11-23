@@ -1,8 +1,8 @@
-# MultiDrive Photos Hub
+# Media Mesh Photos Hub
 
 ## Wizja produktu
 
-MultiDrive Photos Hub to aplikacja umożliwiająca przechowywanie zdjęć i filmów na wielu kontach Google Drive, prezentując je użytkownikowi jako jedną spójną bibliotekę.
+MediaMesh Photos Hub to aplikacja umożliwiająca przechowywanie zdjęć i filmów na wielu kontach Google Drive, prezentując je użytkownikowi jako jedną spójną bibliotekę.
 
 System ma rozwiązać problem ograniczonej przestrzeni dyskowej pojedynczego konta Google poprzez automatyczne rozpraszanie plików pomiędzy wieloma kontami przy zachowaniu jednolitego widoku galerii.
 
